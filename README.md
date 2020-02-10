@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Swift-5.1-orange.svg" />
+    <img src="https://img.shields.io/badge/swift-5.1-orange.svg" />
     <a href="https://github.com/zntfdr/Connection/actions?query=workflow%3A%22Build+%26+Test%22">
         <img src="https://img.shields.io/github/workflow/status/zntfdr/Connection/Build & Test?label=CI&logo=GitHub" alt="Build status" />
     </a>
