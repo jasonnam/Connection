@@ -49,13 +49,13 @@ You can find many more examples in the [`Tests`](https://github.com/zntfdr/Conne
 
 ## Installation
 
-Connection is distributed using the [Swift Package Manager](https://swift.org/package-manager). To install it into a project, follow [this tutorial](https://developer.apple.com/documentation/swift_packages/adding_package_dependencies_to_your_app) with the following url: `https://github.com/zntfdr/Connection.git`.
+Connection is distributed using the [Swift Package Manager](https://swift.org/package-manager). To install it into a project, follow [this tutorial](https://developer.apple.com/documentation/swift_packages/adding_package_dependencies_to_your_app) and use this repository URL: `https://github.com/zntfdr/Connection.git`.
 
 ## Credits
 
 Connection was built by [Federico Zanetello](https://twitter.com/zntfdr) as a component of [Bangkok Metro](http://yourmetro.app).
 
-If you'd like to dive deeper in iOS path-finding algorithms, please read this two-part serie:
+If you'd like to dive deeper into iOS path-finding algorithms, please read this two-part serie:
 
 - [Dijkstra’s Algorithm In Swift](https://www.fivestars.blog/code/dijkstra-algorithm-swift.html#swift-time)
 - [The Right Way To Write Dijkstra’s Algorithm In Swift 👾](https://www.fivestars.blog/code/dijkstra-algorithm-swift-2.html)
