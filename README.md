@@ -1,8 +1,6 @@
-<p align="center">
-    <img src=".logo/logo.png" width="400" max-width="90%" alt="Connection" />
-</p>
+# Connection
 
-<p align="center">
+<p>
     <img src="https://img.shields.io/badge/swift-5.1-orange.svg" />
     <a href="https://github.com/zntfdr/Connection/actions?query=workflow%3A%22Build+%26+Test%22">
         <img src="https://img.shields.io/github/workflow/status/zntfdr/Connection/Build & Test?label=CI&logo=GitHub" alt="Build status" />
